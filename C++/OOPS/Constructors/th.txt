@@ -1,0 +1,21 @@
+3 types Constructors
+        -> Default Constructors : 
+                    
+                    -> witout passing any arguments 
+
+                syntax :
+                        class ClassName{
+
+                            public :
+                                ClassName(){
+                                    //  initization
+                                }
+
+                        }
+
+        -> Paramaterized Constructors
+
+                    (arguments)
+
+                                    -> (arguments)
+        -> copy Constructors
