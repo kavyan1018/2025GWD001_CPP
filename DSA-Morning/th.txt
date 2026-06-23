@@ -1,0 +1,12 @@
+
+
+
+
+            Searching                                            Sorting
+            --------------------------------------------------------------------
+                -> 1. Linear Search                                  -> Bubble Sort
+                -> 2. Binary Search                                  -> Selection Sort
+                -> 3. BFS                                            -> insertion Sort
+                -> 4. DFS                                            -> merge Sort
+                -> 5. Hashing Search                                 -> Quick Sort
+                                                                     -> Heap Sort
