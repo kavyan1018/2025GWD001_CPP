@@ -1,0 +1,75 @@
+type of dev 
+
+    - Frontend Developer
+            - html, css, js, react
+
+    - Backend Developer
+            - node, express, java, py, c, c++
+
+    - Full Stack Developer
+                all mentioned above
+
+    - Data base
+        - sql, nosql, mongodb, mysql, postgresql
+
+
+
+type of software
+
+        - system software
+            - operating system, device drivers, utility software
+
+        - application software
+            - productivity software, media players, enterprise software, educational software, business software, simulation software
+        
+        - development software
+            - programming languages, IDEs, version control systems, debuggers, compilers, build tools
+
+
+
+----------------------------------------------
+
+
+css -> cascading style sheets
+
+css -> 1996 -> hakon
+
+
+-------------------------------
+
+there is total 3 ways to write css
+
+    - inline css
+    - internal css
+    - external css   -> file_name.css
+
+
+-------------------------------------
+
+
+syntax of css
+
+    selector : id/ class/ tag
+
+    property : color, font-size, background-color, margin, padding, border, width, height
+
+    value : red, 20px, #fff, 10px, 5px solid black, 100%, auto
+
+
+    selector{
+        property : value;
+        property : value;
+        property : value;
+        property : value;
+    }
+
+
+
+    h1{
+        color : red;
+    }
+
+
+    for id call we need to use #(hash) id_name
+
+    for class call we need to use .(dot) class_name
