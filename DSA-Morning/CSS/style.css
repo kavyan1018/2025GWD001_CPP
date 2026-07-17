@@ -1,0 +1,21 @@
+.hello{
+    color: brown;
+    /* background-color: black; */
+    font-size: 30px;
+}
+
+
+/* 
+
+    |
+   head
+    |
+external css
+    |
+Interal css
+    |
+   cont 
+    |
+inline CSS
+
+*/
